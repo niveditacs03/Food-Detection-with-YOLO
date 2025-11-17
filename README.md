@@ -19,9 +19,8 @@ outputs/
 
 ## Getting Started
 ```
-git clone <repo-url>
-pip install -r requirements.txt
-jupyter notebook Yolo_12_with_preprocessing.ipynb
+git clone https://github.com/niveditacs03/Food-Detection-with-YOLO.git
+
 ```
 
 ## Scope
